@@ -43,9 +43,6 @@ Contributions to this project are welcome. If you'd like to enhance or fix issue
 4. Push your changes to your forked repository.
 5. Create a pull request to the original repository's `main` branch.
 
-## License <a name="license"></a>
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Enjoy experimenting with Conway's Game of Life! If you have any questions or suggestions, feel free to reach out.
+Enjoy experimenting with Conway's Game of Life! If you have any questions or suggestions, feel free to reach out at s_kabir@coloradocollege.edu!
